@@ -1,0 +1,1 @@
+var json_Pemerintahan_3 = {"type":"FeatureCollection","name":"Pemerintahan_3","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"REMARK":"Kantor Kepala Desa","LCODE":"GD0020","NAMA":"Kantor Kepala Desa Ngasem"},"geometry":{"type":"Point","coordinates":[112.558498977674347,-8.095784198130087]}}]}
